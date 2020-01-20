@@ -1,8 +1,7 @@
 # Tensorflow Lite + OpenWRT
 
 ## Description
-OpenWRT packages Tensorflow Lite.
-
+Tensorflow Lite packages for OpenWRT.
 
 * Tensorflow Lite version: 2.0.0
 * OpenWRT: 18.06.2, 18.06.3, 18.06.5, 18.06.6
