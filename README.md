@@ -22,6 +22,9 @@ Run
 make menuconfig
 ```
 
+or copy the repo contents in `package` directory and enable in `make menuconfig`.
+
+
 In-depth instructions are available in the Tensorflow lite page: https://www.tensorflow.org/lite
 
 
